@@ -29,7 +29,7 @@ Reusable Java and Selenium methods are written in separate **WebDriverUtility.ja
   *****searchButton.feature - scenarios for test case  
 #InputData  
   *****log4j.properties - log4j logger to add logger info on each step defnition  
-  *****projectProp.properties - ('URL' , 'Browser' , 'ImplicitWait' , 'PageLoadTimeOut') key - value for the URL, Browser name and timeouts  
+  *****projectProp.properties - To separate these values for -> ('URL' , 'Browser' , 'ImplicitWait' , 'PageLoadTimeOut') and store them as (key & value) 
 #screenshots folder - to store screenshots taken during test run 
  
 
