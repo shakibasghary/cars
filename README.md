@@ -20,7 +20,7 @@ Reusable Java and Selenium methods are written in separate **WebDriverUtility.ja
 #pageObjects - POM folder to store locators   
 #WebDriverUtility.java - resuable java methods for autmation    
 **com.cars.hw/src/test/java/**  
-#TestRunner.java - @CucumberOptions 
+#TestRunner.java - @CucumberOptions   
 #stepDefinitions:  
       *****initializer.java for @Before and @After hooks to initialize browser and tear it down  
    *****searchButton.java detailed java and selenium methods for scenarios  
