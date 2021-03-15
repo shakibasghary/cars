@@ -2,7 +2,7 @@
 
 TEST CASE TITLE : "Search Button"
 
-BACKGROUND:
+HOW TO TEST:
 This feature tests 'Search Button' to ensure users are able to perform searches based on pre-defined criteria.
 In addition, to validate that users are able to modify their searches after selecting those criterias and able to see details of the defined searches.
 Details of the project code can be found in its respective folder and files.
