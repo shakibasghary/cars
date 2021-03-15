@@ -6,7 +6,7 @@
 **BACKGROUND:**  
 This feature tests 'Search Button' to ensure users are able to perform searches based on pre-defined criteria.  
 In addition, to validate that users are able to modify their searches after selecting those criterias and able to see details of the defined searches.  
-Details of the project code can be found in it's respective folder and files.  
+Details of the project code can be found in its respective folder and files.  
 Scenarios are written in Gherkin format in **'searchButton.feature'** file.   
 The stepDefinitions are writen in Java and Selenium in **'searchButton.java'** class.  
 POM design patterns is followed and locators are located inside **pageObjects folder**  and in separate java class.  
